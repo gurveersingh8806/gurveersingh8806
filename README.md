@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Gurveer Singh
+Hi. I'm Gurveer Singh
 </h1>
 
 <p align="center">
@@ -20,17 +20,17 @@ Hi 👋 I'm Gurveer Singh
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** who enjoys building scalable web applications and solving real-world problems through technology.
 
-I specialize in the **MERN Stack**, backend architecture, REST APIs, authentication systems, and creating intuitive user experiences.
+I specialize in the **FULL Stack**, backend architecture, REST APIs, authentication systems, and creating intuitive user experiences.
 
 I love transforming ideas into products with clean code, intuitive UI, and robust backend systems while continuously learning modern technologies.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -58,7 +58,7 @@ I love transforming ideas into products with clean code, intuitive UI, and robus
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -82,15 +82,15 @@ I love transforming ideas into products with clean code, intuitive UI, and robus
 
 ---
 
-# 🎯 Currently Working On
+#  Currently Working On
 
-🚀 Full Stack Web Applications
+=> Full Stack Web Applications
 
-📱 Responsive & Modern UI/UX
+=> Data Structures and Algorithms
 
-⚡ Backend Architecture & API Design
+=> Backend Architecture & API Design
 
-🌐 Cloud-based Solutions
+=> 
 
 ---
 
@@ -100,7 +100,7 @@ I love transforming ideas into products with clean code, intuitive UI, and robus
 - Next.js
 - Advanced React Patterns
 - System Design
-- Cloud Deployment
+- Code optimisation
 - Database Optimization
 
 ---
@@ -109,11 +109,11 @@ I love transforming ideas into products with clean code, intuitive UI, and robus
 
 <p align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:gurveersingh8806@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/gurveer-singh">
+<a href="https://www.linkedin.com/in/gurveer-singh-678491322">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
