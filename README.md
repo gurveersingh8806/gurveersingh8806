@@ -75,19 +75,6 @@
 
 
 
-<p align="center">
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gurveersingh8806&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurveersingh8806&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-
-</p>
 
 
 
@@ -176,15 +163,6 @@ I start small: ship a minimal working example, then improve it. Typical steps:
 3. Add README and scripts so others can run the project.
 4. Iterate: add tests, refactor, and improve developer experience when it makes sense.
 
-## GitHub stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gurveersingh8806&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurveersingh8806&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gurveersingh8806&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## Connect
 - Email: gurveersingh8806@gmail.com  
