@@ -71,38 +71,7 @@
 
 
 
-#  GitHub Analytics
 
-
-
-
-
-
-<p align="center">
-
-
-
-<img src="https://streak-stats.demolab.com?user=gurveersingh8806&theme=tokyonight&hide_border=true"/>
-
-
-
-</p>
-
-
-
-<p align="center">
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurveersingh8806&theme=tokyo-night&hide_border=true"/>
-
-
-
-</p>
-
-
-
----
 
 
 ## What I work on
